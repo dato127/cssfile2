@@ -1,0 +1,72 @@
+/* body background color */
+body {
+    background-color: #000;;
+}
+/* h1 ელემეტის სელექტორი*/
+h1 {
+     color: #767676;
+     font-size: 32px;
+     width: 530px;
+     margin-top: 25px;
+     margin-left: 31px;
+     font-weight: 700;
+}
+/*პარაგრაფ პირველის სელექტორი*/
+#about {
+    color: #767676;
+    font-size: 20px;
+    margin-left: 31px;
+    margin-top: 78px;
+    font-weight: 700;
+}
+/*პარაგრაფ მეორეს სელექტორი*/
+#stakeholder {
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-left: 32px;
+    width: 330px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+/*პარაგრაფ მესამე სელექტორი*/
+#writing {
+    color: #767676;
+    font-size: 20px;
+    margin-left: 31px;
+    margin-top: 134px;
+    font-weight: 700;
+}
+/*პარაგრაფ მეოთხის სელექტორი*/
+#sposhe {
+    color: #767676;
+    font-size: 14px;
+    margin-left: 31px;
+    margin-top: 15px;
+    font-weight: 700;
+}
+/*პარაგრაფ მეხუთის სელექტორი*/
+#Generates {
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-left: 32px;
+    width: 400px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+/*პარაგრაფ მეექვსვე სელექტორი*/
+#poisson {
+    color: #767676;
+    font-size: 14px;
+    margin-left: 31px;
+    margin-top: 44px;
+    font-weight: 700;
+}
+/*პარაგრაფ მეშვიდე სელექტორი*/
+#Creates {
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-left: 31px;
+    width: 450px;
+    font-weight: 400;
+    margin-top: 13px;
+}
